@@ -1,3 +1,3 @@
 # Goose Game!
 
-![image](building.tmx)
+!(building.tmx)
