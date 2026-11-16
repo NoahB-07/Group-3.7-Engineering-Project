@@ -7,7 +7,7 @@
 |Files|links|
 |----|------|
 |Game|[Game.jar](https://github.com/NoahB-07/Group-3.7-Engineering-Project/blob/main/Goose%20Game-1.0.0.jar)|
-|Github|[Github.com](https://github.com/NoahB-07/Group-3.7-Engineering-Project/blob/main/)|
+|Github|[Github.com](https://github.com/NoahB-07/7Gnomes-EngineeringProject)|
 |Requirements|[Reg1.pdf](https://github.com/NoahB-07/Group-3.7-Engineering-Project/blob/main/Req1.pdf)|
 |Architecture|[Arch1.pdf](https://github.com/NoahB-07/Group-3.7-Engineering-Project/blob/main/Arch1.pdf)|
 |Method selection and planning|[Plan1.pdf](https://github.com/NoahB-07/Group-3.7-Engineering-Project/blob/main/Plan1.pdf)|
