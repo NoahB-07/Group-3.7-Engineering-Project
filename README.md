@@ -7,15 +7,20 @@
 |Files|links|
 |----|------|
 |Game.jar||
+|Requirements||
+|Architecture||
+|Method selection and planning||
+|Risk assessment and mitigation||
+|Implementation||
 
 
 ## Controls
 
 |Key|Action|
 |----|----|
-|w|move up|
-|a|move left|
-|s|move down|
-|d|move right|
-|e|eat|
-|space|shoot|
+|W|Move up|
+|A|Move left|
+|S|Move down|
+|D|Move right|
+|E|Eat|
+|Space|Shoot|
