@@ -7,7 +7,7 @@
 |Files|links|
 |----|------|
 |Game.jar||
-|Requirements|![Reg1.pdf](Req1.pdf)|
+|Requirements|![Reg1.pdf](https://github.com/NoahB-07/Group-3.7-Engineering-Project/blob/main/Req1.pdf)|
 |Architecture|![Arch1.pdf](Arch1.pdf)|
 |Method selection and planning|![Plan1.pdf](Plan1.pdf)|
 |Risk assessment and mitigation|![Risk1.pdf](Risk1.pdf)|
