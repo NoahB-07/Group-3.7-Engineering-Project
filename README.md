@@ -7,7 +7,7 @@
 |Files|links|
 |----|------|
 |Game.jar||
-|Requirements|[Final_deliverables/Arch1.pdf]|
+|Requirements|[[Final_deliverables/Arch1.pdf]]|
 |Architecture||
 |Method selection and planning||
 |Risk assessment and mitigation||
