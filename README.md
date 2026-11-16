@@ -7,7 +7,7 @@
 |Files|links|
 |----|------|
 |Game.jar||
-|Requirements|[!Req1.pdf]|
+|Requirements|![Reg1.pdf](Req1.pdf)|
 |Architecture||
 |Method selection and planning||
 |Risk assessment and mitigation||
