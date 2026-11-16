@@ -7,11 +7,11 @@
 |Files|links|
 |----|------|
 |Game.jar||
-|Requirements|![](Req1.pdf)|
-|Architecture||
-|Method selection and planning||
-|Risk assessment and mitigation||
-|Implementation||
+|Requirements|![Reg1.pdf](Req1.pdf)|
+|Architecture|!Arch1.pdf](Arch1.pdf)|
+|Method selection and planning|![Plan1.pdf](Plan1.pdf)|
+|Risk assessment and mitigation|![Risk1.pdf](Risk1.pdf)|
+|Implementation|![Impl1.pdf](Impl1.pdf)|
 
 
 ## Controls
